@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vd5yzRiPeIgXue0m+g9T30WMRVQ/T7scJA4JTSzsQ+kNMwYVuZnK/o8yiWVhbkF2NHNDgA6AxBiO7MK3mYyL2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AL\\Csharp\\chap2\\exercise\\NumericTypes\\NumericTypes\\NumericTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\AL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
